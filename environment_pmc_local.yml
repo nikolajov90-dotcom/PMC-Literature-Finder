@@ -5,4 +5,5 @@ dependencies:
   - python=3.12
   - biopython
   - pandas
+  - requests
   - streamlit
