@@ -1,0 +1,8 @@
+name: pmc-literature-app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - biopython
+  - pandas
+  - streamlit
